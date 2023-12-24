@@ -1,0 +1,5 @@
+2023-12-22T12:08:01+00:00 DEBUG tt4b_product_delete: missing access token for tt4b_product_sync
+2023-12-22T14:20:19+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit InitiateCheckout
+2023-12-22T14:20:19+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"
+2023-12-22T17:12:11+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: hit InitiateCheckout
+2023-12-22T17:12:11+00:00 DEBUG Tt4b_Pixel_Class::inject_start_checkout: Missing option "access_token"

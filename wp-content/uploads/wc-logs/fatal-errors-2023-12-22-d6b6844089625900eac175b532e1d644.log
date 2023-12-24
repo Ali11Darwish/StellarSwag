@@ -1,0 +1,16 @@
+2023-12-22T08:29:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\themes\best-shop\inc\widgets\countdown-timer.php on line 105
+
+2023-12-22T14:55:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-22T15:09:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\themes\best-shop\inc\template-tags.php on line 10
+
+2023-12-22T15:09:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\themes\best-shop\inc\widgets\countdown-timer.php on line 105
+
+2023-12-22T15:09:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\settings\page\manager.php on line 14
+
+2023-12-22T15:09:14+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\settings\page\manager.php on line 14
+
+2023-12-22T15:09:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\kits\manager.php on line 16
+
+2023-12-22T15:09:16+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\schemes\manager.php on line 4
+

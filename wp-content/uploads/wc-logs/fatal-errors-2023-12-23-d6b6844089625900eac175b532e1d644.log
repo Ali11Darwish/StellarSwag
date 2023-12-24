@@ -1,0 +1,8 @@
+2023-12-23T08:32:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\includes\core\server\request\class-create-intention.php on line 18
+
+2023-12-23T08:34:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\Requests\src\Transport\Curl.php on line 510
+
+2023-12-23T08:54:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+
+2023-12-23T08:55:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\templates\checkout\thankyou.php on line 22
+

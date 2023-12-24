@@ -1,0 +1,4 @@
+2023-12-18T05:40:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\functions.php on line 6805
+
+2023-12-18T07:14:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\includes\fonts.php on line 6
+

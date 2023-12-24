@@ -1,0 +1,18 @@
+2023-12-21T10:42:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\src\Internal\DependencyManagement\ServiceProvider\GenericServiceProvider.php on line 25
+
+2023-12-21T10:43:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\utils\static-collection.php on line 4
+
+2023-12-21T10:43:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\core\admin\admin.php on line 17
+
+2023-12-21T11:17:15+00:00 CRITICAL Out of memory (allocated 60817408 bytes) (tried to allocate 20480 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\includes\class-wc-order.php on line 1981
+
+2023-12-21T11:17:16+00:00 CRITICAL Out of memory (allocated 60817408 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\src\Admin\Notes\Notes.php on line 343
+
+2023-12-21T11:17:16+00:00 CRITICAL Out of memory (allocated 79691776 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\themes\best-shop\inc\tgmpa\class-tgm-plugin-activation.php on line 518
+
+2023-12-21T11:17:17+00:00 CRITICAL Out of memory (allocated 79691776 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\themes\best-shop\inc\tgmpa\class-tgm-plugin-activation.php on line 1126
+
+2023-12-21T12:35:15+00:00 CRITICAL Out of memory (allocated 102760448 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\includes\class-wc-payments-account.php on line 730
+
+2023-12-21T14:37:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractBlock.php on line 65
+

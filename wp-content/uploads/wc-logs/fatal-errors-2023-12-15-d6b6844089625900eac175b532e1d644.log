@@ -1,0 +1,4 @@
+2023-12-15T10:58:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2023-12-15T14:43:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\modules\web-cli\module.php on line 6
+

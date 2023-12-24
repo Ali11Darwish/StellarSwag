@@ -1,0 +1,20 @@
+2023-12-24T09:27:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\admin\crawl-settings-integration.php on line 16
+
+2023-12-24T12:11:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\vendor\jetpack-autoloader\class-php-autoloader.php on line 91
+
+2023-12-24T12:28:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\Requests\src\Transport\Curl.php on line 205
+
+2023-12-24T12:28:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T12:29:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\includes\controls\hover-animation.php on line 4
+
+2023-12-24T12:29:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\elementor\includes\controls\groups\border.php on line 4
+
+2023-12-24T12:29:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\breeze\vendor-extra\mobiledetect\php8\vendor\composer\ClassLoader.php on line 429
+
+2023-12-24T12:29:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-content\plugins\breeze\vendor-extra\mobiledetect\php8\vendor\composer\ClassLoader.php on line 429
+
+2023-12-24T12:40:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T12:47:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+

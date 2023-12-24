@@ -18,3 +18,31 @@
 
 2023-12-24T12:47:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
 
+2023-12-24T13:17:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T13:30:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T13:39:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T13:41:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T14:04:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T14:33:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T14:52:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T15:06:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T15:19:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T15:27:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T15:44:39+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\xampp\htdocs\StellarSwag\wp-includes\class-wpdb.php on line 2349
+
+2023-12-24T17:06:57+00:00 CRITICAL Out of memory (allocated 90177536 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\settings-integration.php on line 460
+
+2023-12-24T17:06:57+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 20480 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\fluentform\vendor\wpfluent\framework\src\WPFluent\Support\Arr.php on line 159
+
+2023-12-24T17:06:58+00:00 CRITICAL Out of memory (allocated 100663296 bytes) (tried to allocate 20480 bytes) in C:\xampp\htdocs\StellarSwag\wp-includes\class-wp-theme-json.php on line 866
+

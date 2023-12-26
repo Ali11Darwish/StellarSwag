@@ -1,0 +1,6 @@
+2023-12-25T16:46:55+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\front-end\crawl-cleanup-searches.php on line 1
+
+2023-12-25T16:47:09+00:00 CRITICAL Out of memory (allocated 94371840 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\includes\multi-currency\Analytics.php on line 317
+
+2023-12-25T16:47:09+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\front-end-integration.php on line 477
+

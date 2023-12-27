@@ -1,0 +1,20 @@
+2023-12-27T09:27:28+00:00 CRITICAL Out of memory (allocated 85983232 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\inc\class-wpseo-replace-vars.php on line 395
+
+2023-12-27T09:27:33+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\builders\indexable-link-builder.php on line 443
+
+2023-12-27T09:27:31+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\builders\indexable-builder.php on line 59
+
+2023-12-27T09:27:33+00:00 CRITICAL Out of memory (allocated 90177536 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-date-archive-watcher.php on line 1
+
+2023-12-27T09:27:34+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\builders\indexable-builder.php on line 59
+
+2023-12-27T09:27:34+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\builders\indexable-builder.php on line 59
+
+2023-12-27T09:27:35+00:00 CRITICAL Out of memory (allocated 90177536 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\shop-by-price.php on line 1
+
+2023-12-27T09:27:39+00:00 CRITICAL Out of memory (allocated 90177536 bytes) (tried to allocate 65536 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\integrations\watchers\primary-category-quick-edit-watcher.php on line 108
+
+2023-12-27T09:27:44+00:00 CRITICAL Out of memory (allocated 102760448 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce\src\Admin\API\ProductsLowInStock.php on line 1
+
+2023-12-27T09:27:45+00:00 CRITICAL Out of memory (allocated 73400320 bytes) (tried to allocate 28672 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\themes\kadence\inc\components\options\component.php on line 3513
+

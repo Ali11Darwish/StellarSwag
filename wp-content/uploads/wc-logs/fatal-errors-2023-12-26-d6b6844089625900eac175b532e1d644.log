@@ -91,3 +91,9 @@ Stack trace:
 
 2023-12-26T13:01:01+00:00 CRITICAL Out of memory (allocated 88080384 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\wordpress-seo\src\builders\indexable-link-builder.php on line 443
 
+2023-12-26T18:38:13+00:00 CRITICAL Out of memory (allocated 90177536 bytes) (tried to allocate 53248 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\vendor\jetpack-autoloader\class-php-autoloader.php on line 90
+
+2023-12-26T18:38:20+00:00 CRITICAL Out of memory (allocated 98566144 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\includes\core\server\request\class-get-intention.php on line 19
+
+2023-12-26T18:38:21+00:00 CRITICAL Out of memory (allocated 98566144 bytes) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\StellarSwag\wp-content\plugins\woocommerce-payments\includes\class-wc-payments-account.php on line 104
+
